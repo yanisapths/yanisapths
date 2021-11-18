@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @yanisapths
+- 👀 I’m interested in network, inforamtion system, IT ,business , blockchain , UX/UI
+- 🌱 I’m currently learning ethereum & solidity , Comptia Network+ , Security+
+- 💞️ I’m looking to collaborate on business intelligence development , Network , IT 
+- 📫 yanisa21@live.com
+- yanisa-poongthaisong.netlify.app
+
+<!---
+
+I’m a lifelong learner. I love learning and working with people and never stop trying. From recent projects during many courses in the university such as Software Engineering, Database system , Animation , OOP , and Web Programming, I worked with different group of people all along ,
+though I'm aware about making mistakes, it is important to have courage to be a changer or admit what i don’t know, ask questions, foster the team to grow and finish the job together.
+I’m a very team player type of person. Different perspective and opinions are excitments to me which help me adapt faster, understand better in the view that I may not experience like others.
+I believe in myself to be able to learn and grow up as an original, and real one.
+
+Feel free to check out my portfolio website: yanisa-poongthaisong.netlify.app
+--->
