@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ethereum & solidity , CompTIA Network+ , Security+
 - 💞️ I’m looking to collaborate on business intelligence development , Network , IT 
 - 📫 yanisa21@live.com
-- yanisa-poongthaisong.netlify.app
+- https://yanisa-poongthaisong.netlify.app
 
 <!---
 
