@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on business intelligence development , Network , IT 
 - 📫 yanisa21@live.com
 - https://yanisa-poongthaisong.netlify.app
-- -https://medium.com/@yanisa-poongthaisong
+- https://medium.com/@yanisa-poongthaisong
 
 <!---
 
