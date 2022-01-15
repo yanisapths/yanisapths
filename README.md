@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yanisapths
-- 👀 I’m interested in network, information system, IT ,business , blockchain , UX/UI
-- 🌱 I’m currently learning ethereum & solidity , CompTIA Network+ , Security+
-- 💞️ I’m looking to collaborate on Network , IT 
+- 👀 I’m interested in web develop, UX/UI , IT
+- 🌱 I’m currently learning CompTIA Network+ , Security+
 - 📫 yanisa21@live.com
 - https://yanisa-poongthaisong.netlify.app
 - https://medium.com/@yanisa-poongthaisong
