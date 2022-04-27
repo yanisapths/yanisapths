@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @yanisapths
-- 👀 I’m interested in web develop, UX/UI , IT
-- 🌱 I’m currently learning CompTIA Network+ , Security+
 - 📫 yanisa21@live.com
-- https://yanisa-poongthaisong.netlify.app
+- https://yanisa-poongthaisong.vercel.app
 - https://medium.com/@yanisa-poongthaisong
 
 <!---
